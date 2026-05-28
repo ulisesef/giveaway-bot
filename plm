@@ -113,4 +113,4 @@ async def gw(ctx, duration: str, winners: int, *, prize: str):
     await ctx.send(f"🎉 Giveaway finished! Congratulations {winner_mentions}")
 
 
-bot.run("MTUwOTQ4NjkxODMzMTY2MjMzNw.GPc3jk.2LHyONb7Y15vj7qBLDa9lVM3pEazq_nUCzgwlE")
+bot.run("put ur token bot here")
